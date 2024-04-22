@@ -1,0 +1,20 @@
+{
+  "name": "banco-solar",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Validaremos nuestros conocimientos de Conectar una base de datos\r PostgreSQL con Node, Realizar consultas DML con Node y el paquete pg, Realizar consultas\r TCL con Node y el paquete pg, Construir una API RESTful utilizando PostgreSQL para la\r persistencia de datos, Manejar errores y Manejar códigos de estado HTTP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.5"
+  }
+}
