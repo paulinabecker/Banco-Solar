@@ -1,11 +1,13 @@
 # Banco-Solar
 
-Validaremos nuestros conocimientos de Conectar una base de datos
-PostgreSQL con Node, Realizar consultas DML con Node y el paquete pg, Realizar consultas
-TCL con Node y el paquete pg, Construir una API RESTful utilizando PostgreSQL para la
-persistencia de datos, Manejar errores y Manejar códigos de estado HTTP.
+- Validar conocimientos de Conectar una base de datos PostgreSQL con Node
+- Realizar consultas DML con Node y el paquete pg
+- Realizar consultas TCL con Node y el paquete pg
+- Construir una API RESTful utilizando PostgreSQL para la persistencia de datos
+-  Manejar errores y Manejar códigos de estado HTTP.
 
 Descripción
+
 El Banco Solar acaba de decidir invertir una importante suma de dinero para contratar un
 equipo de desarrolladores Full Stack que desarrollen un nuevo sistema de transferencias, y
 han anunciado que todo aquel que postule al cargo debe realizar un servidor con Node que
